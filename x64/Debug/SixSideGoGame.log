@@ -1,0 +1,11 @@
+﻿  Chat.cpp
+e:\mycodes\cpp\sixsidegogame\sixsidegogame\chat.cpp(377): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\mycodes\cpp\sixsidegogame\sixsidegogame\chat.cpp(412): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\mycodes\cpp\sixsidegogame\sixsidegogame\chat.cpp(429): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\mycodes\cpp\sixsidegogame\sixsidegogame\chat.cpp(503): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\mycodes\cpp\sixsidegogame\sixsidegogame\chat.cpp(533): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\mycodes\cpp\sixsidegogame\sixsidegogame\chat.cpp(628): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\mycodes\cpp\sixsidegogame\sixsidegogame\chat.cpp(642): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\mycodes\cpp\sixsidegogame\sixsidegogame\chat.cpp(655): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SixSideGoGame.vcxproj -> E:\MyCodes\Cpp\SixSideGoGame\x64\Debug\SixSideGoGame.exe
+  SixSideGoGame.vcxproj -> E:\MyCodes\Cpp\SixSideGoGame\x64\Debug\SixSideGoGame.pdb (Partial PDB)
